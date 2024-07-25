@@ -65,6 +65,36 @@ main {
     justify-content: space-around;
 }
 
+.techs{
+    width: 100%;
+    height: 685px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tech-center{
+    margin-left: 290px;
+}
+
+.tech-center img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.icons,
+.icons-2,
+.icons img,
+.icons-2 img{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+
 
 footer{
     width: 100%;
