@@ -43,8 +43,27 @@ main {
     padding-left: 330px;
 }
 
+.ecommerces {
+    display: flex;
+    justify-content: space-between;
+}
 
+.cell1 img,
+.cell2 img{
+    width: 280px;
+    padding-top: 45px;
+    padding-bottom: 20px
+}
 
+.cell1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cell2 {
+    display: flex;
+    justify-content: space-around;
+}
 
 
 footer{
